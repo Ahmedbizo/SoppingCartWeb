@@ -1,0 +1,7 @@
+C:\ShoppingCart\ShoppingCart\ShoppingCart.DTO\bin\Debug\ShoppingCart.DTO.dll.config
+C:\ShoppingCart\ShoppingCart\ShoppingCart.DTO\bin\Debug\ShoppingCart.DTO.dll
+C:\ShoppingCart\ShoppingCart\ShoppingCart.DTO\bin\Debug\ShoppingCart.DTO.pdb
+C:\ShoppingCart\ShoppingCart\ShoppingCart.DTO\obj\Debug\ShoppingCart.DTO.csprojAssemblyReference.cache
+C:\ShoppingCart\ShoppingCart\ShoppingCart.DTO\obj\Debug\ShoppingCart.DTO.csproj.CoreCompileInputs.cache
+C:\ShoppingCart\ShoppingCart\ShoppingCart.DTO\obj\Debug\ShoppingCart.DTO.dll
+C:\ShoppingCart\ShoppingCart\ShoppingCart.DTO\obj\Debug\ShoppingCart.DTO.pdb
