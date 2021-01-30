@@ -1,0 +1,10 @@
+C:\ShoppingCart\ShoppingCart\ShoppingCart.DB\bin\Debug\ShoppingCart.DB.dacpac
+C:\ShoppingCart\ShoppingCart\ShoppingCart.DB\bin\Debug\ShoppingCart.DB.dll
+C:\ShoppingCart\ShoppingCart\ShoppingCart.DB\bin\Debug\ShoppingCart.DB.pdb
+C:\ShoppingCart\ShoppingCart\ShoppingCart.DB\obj\Debug\ShoppingCart.DB.sqlprojAssemblyReference.cache
+C:\ShoppingCart\ShoppingCart\ShoppingCart.DB\obj\Debug\Model.xml
+C:\ShoppingCart\ShoppingCart\ShoppingCart.DB\obj\Debug\refactor.xml
+C:\ShoppingCart\ShoppingCart\ShoppingCart.DB\obj\Debug\postdeploy.sql
+C:\ShoppingCart\ShoppingCart\ShoppingCart.DB\obj\Debug\predeploy.sql
+C:\ShoppingCart\ShoppingCart\ShoppingCart.DB\obj\Debug\ShoppingCart.DB.dll
+C:\ShoppingCart\ShoppingCart\ShoppingCart.DB\obj\Debug\ShoppingCart.DB.pdb
