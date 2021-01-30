@@ -1,0 +1,12 @@
+C:\Users\eman_\Source\Workspaces\eCommerceSolution\eCommerceSolution\Core.Common\bin\Debug\Core.Common.dll
+C:\Users\eman_\Source\Workspaces\eCommerceSolution\eCommerceSolution\Core.Common\bin\Debug\Core.Common.pdb
+C:\Users\eman_\Source\Workspaces\eCommerceSolution\eCommerceSolution\Core.Common\obj\Debug\Core.Common.csproj.CoreCompileInputs.cache
+C:\Users\eman_\Source\Workspaces\eCommerceSolution\eCommerceSolution\Core.Common\obj\Debug\Core.Common.dll
+C:\Users\eman_\Source\Workspaces\eCommerceSolution\eCommerceSolution\Core.Common\obj\Debug\Core.Common.pdb
+C:\Users\eman_\source\Workspaces\eCommerceSolution\eCommerceSolution\Core.Common\obj\Debug\Core.Common.csprojAssemblyReference.cache
+C:\ShoppingCart\ShoppingCart\Core.Common\bin\Debug\Core.Common.dll
+C:\ShoppingCart\ShoppingCart\Core.Common\bin\Debug\Core.Common.pdb
+C:\ShoppingCart\ShoppingCart\Core.Common\obj\Debug\Core.Common.csprojAssemblyReference.cache
+C:\ShoppingCart\ShoppingCart\Core.Common\obj\Debug\Core.Common.csproj.CoreCompileInputs.cache
+C:\ShoppingCart\ShoppingCart\Core.Common\obj\Debug\Core.Common.dll
+C:\ShoppingCart\ShoppingCart\Core.Common\obj\Debug\Core.Common.pdb
