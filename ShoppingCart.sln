@@ -1,0 +1,140 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ShoppingCart.DB", "ShoppingCart.DB\ShoppingCart.DB.sqlproj", "{7F83608D-AD67-4C6C-AD03-6C72D56D51D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart.Data", "ShoppingCart.Data\ShoppingCart.Data.csproj", "{E164271B-C55F-4984-9079-0DA662299881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart.DTO", "ShoppingCart.DTO\ShoppingCart.DTO.csproj", "{0AA4E5EA-39F4-45D1-96D3-B821B3F3D301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart.Common", "ShoppingCart.Common\ShoppingCart.Common.csproj", "{1544F47B-BE53-4165-8ADE-93F7285451A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart.Bootstraper", "ShoppingCart.Bootstraper\ShoppingCart.Bootstraper.csproj", "{8E5F20A5-C943-4CFD-880C-51C667FF46D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{D7B3AC69-E396-4923-8017-2AC229998281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Common", "Core.Common\Core.Common.csproj", "{6E430C19-3EB1-497A-973A-21692C631254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart.Repositories", "VibrantCommerce.Repositories\ShoppingCart.Repositories.csproj", "{16BF9303-2F13-4534-AE5A-F6A4A9ADB78C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{2404A1DA-149C-45E7-A2C3-666C18938E97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commerce.BootstraperTest", "Commerce.BootstraperTest\Commerce.BootstraperTest.csproj", "{30906815-F83D-4BF4-8FA7-4D6898BDEB9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commerce.RepositoriesMOQ", "Commerce.RepositoriesMOQ\Commerce.RepositoriesMOQ.csproj", "{3F6ABCB9-1CA6-4B3E-87AA-92C655B7CC1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commerce.RepositoriesTest", "Commerce.RepositoriesTest\Commerce.RepositoriesTest.csproj", "{56ED8DFD-D4B1-4CE6-9A1F-2206EC62B005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCommerceSolution", "eCommerceSolution\eCommerceSolution.csproj", "{75C1A210-F045-4495-ADE6-9BF3A7CEF5E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F83608D-AD67-4C6C-AD03-6C72D56D51D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F83608D-AD67-4C6C-AD03-6C72D56D51D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F83608D-AD67-4C6C-AD03-6C72D56D51D5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7F83608D-AD67-4C6C-AD03-6C72D56D51D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F83608D-AD67-4C6C-AD03-6C72D56D51D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F83608D-AD67-4C6C-AD03-6C72D56D51D5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E164271B-C55F-4984-9079-0DA662299881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E164271B-C55F-4984-9079-0DA662299881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E164271B-C55F-4984-9079-0DA662299881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E164271B-C55F-4984-9079-0DA662299881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AA4E5EA-39F4-45D1-96D3-B821B3F3D301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA4E5EA-39F4-45D1-96D3-B821B3F3D301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA4E5EA-39F4-45D1-96D3-B821B3F3D301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA4E5EA-39F4-45D1-96D3-B821B3F3D301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1544F47B-BE53-4165-8ADE-93F7285451A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1544F47B-BE53-4165-8ADE-93F7285451A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1544F47B-BE53-4165-8ADE-93F7285451A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1544F47B-BE53-4165-8ADE-93F7285451A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E5F20A5-C943-4CFD-880C-51C667FF46D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5F20A5-C943-4CFD-880C-51C667FF46D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5F20A5-C943-4CFD-880C-51C667FF46D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5F20A5-C943-4CFD-880C-51C667FF46D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E430C19-3EB1-497A-973A-21692C631254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E430C19-3EB1-497A-973A-21692C631254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E430C19-3EB1-497A-973A-21692C631254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E430C19-3EB1-497A-973A-21692C631254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BF9303-2F13-4534-AE5A-F6A4A9ADB78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BF9303-2F13-4534-AE5A-F6A4A9ADB78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BF9303-2F13-4534-AE5A-F6A4A9ADB78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BF9303-2F13-4534-AE5A-F6A4A9ADB78C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30906815-F83D-4BF4-8FA7-4D6898BDEB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30906815-F83D-4BF4-8FA7-4D6898BDEB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30906815-F83D-4BF4-8FA7-4D6898BDEB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30906815-F83D-4BF4-8FA7-4D6898BDEB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F6ABCB9-1CA6-4B3E-87AA-92C655B7CC1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F6ABCB9-1CA6-4B3E-87AA-92C655B7CC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F6ABCB9-1CA6-4B3E-87AA-92C655B7CC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F6ABCB9-1CA6-4B3E-87AA-92C655B7CC1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56ED8DFD-D4B1-4CE6-9A1F-2206EC62B005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56ED8DFD-D4B1-4CE6-9A1F-2206EC62B005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56ED8DFD-D4B1-4CE6-9A1F-2206EC62B005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56ED8DFD-D4B1-4CE6-9A1F-2206EC62B005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75C1A210-F045-4495-ADE6-9BF3A7CEF5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C1A210-F045-4495-ADE6-9BF3A7CEF5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C1A210-F045-4495-ADE6-9BF3A7CEF5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C1A210-F045-4495-ADE6-9BF3A7CEF5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6E430C19-3EB1-497A-973A-21692C631254} = {D7B3AC69-E396-4923-8017-2AC229998281}
+		{30906815-F83D-4BF4-8FA7-4D6898BDEB9B} = {2404A1DA-149C-45E7-A2C3-666C18938E97}
+		{3F6ABCB9-1CA6-4B3E-87AA-92C655B7CC1F} = {2404A1DA-149C-45E7-A2C3-666C18938E97}
+		{56ED8DFD-D4B1-4CE6-9A1F-2206EC62B005} = {2404A1DA-149C-45E7-A2C3-666C18938E97}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {675ADD2C-1D8F-4AA1-BFAB-D9201AABB5BA}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 12
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://vibrantillusions.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ShoppingCart.DB\\ShoppingCart.DB.sqlproj
+		SccProjectName1 = ShoppingCart.DB
+		SccLocalPath1 = ShoppingCart.DB
+		SccProjectUniqueName2 = ShoppingCart.Data\\ShoppingCart.Data.csproj
+		SccProjectName2 = ShoppingCart.Data
+		SccLocalPath2 = ShoppingCart.Data
+		SccProjectUniqueName3 = ShoppingCart.DTO\\ShoppingCart.DTO.csproj
+		SccProjectName3 = ShoppingCart.DTO
+		SccLocalPath3 = ShoppingCart.DTO
+		SccProjectUniqueName4 = ShoppingCart.Common\\ShoppingCart.Common.csproj
+		SccProjectName4 = ShoppingCart.Common
+		SccLocalPath4 = ShoppingCart.Common
+		SccProjectUniqueName5 = ShoppingCart.Bootstraper\\ShoppingCart.Bootstraper.csproj
+		SccProjectName5 = ShoppingCart.Bootstraper
+		SccLocalPath5 = ShoppingCart.Bootstraper
+		SccProjectUniqueName6 = Core.Common\\Core.Common.csproj
+		SccProjectTopLevelParentUniqueName6 = ShoppingCart.sln
+		SccProjectName6 = Core.Common
+		SccLocalPath6 = Core.Common
+		SccProjectUniqueName7 = VibrantCommerce.Repositories\\ShoppingCart.Repositories.csproj
+		SccProjectName7 = VibrantCommerce.Repositories
+		SccLocalPath7 = VibrantCommerce.Repositories
+		SccProjectUniqueName8 = Commerce.BootstraperTest\\Commerce.BootstraperTest.csproj
+		SccProjectTopLevelParentUniqueName8 = ShoppingCart.sln
+		SccProjectName8 = Commerce.BootstraperTest
+		SccLocalPath8 = Commerce.BootstraperTest
+		SccProjectUniqueName9 = Commerce.RepositoriesMOQ\\Commerce.RepositoriesMOQ.csproj
+		SccProjectTopLevelParentUniqueName9 = ShoppingCart.sln
+		SccProjectName9 = Commerce.RepositoriesMOQ
+		SccLocalPath9 = Commerce.RepositoriesMOQ
+		SccProjectUniqueName10 = Commerce.RepositoriesTest\\Commerce.RepositoriesTest.csproj
+		SccProjectTopLevelParentUniqueName10 = ShoppingCart.sln
+		SccProjectName10 = Commerce.RepositoriesTest
+		SccLocalPath10 = Commerce.RepositoriesTest
+		SccProjectUniqueName11 = eCommerceSolution\\eCommerceSolution.csproj
+		SccProjectName11 = eCommerceSolution
+		SccLocalPath11 = eCommerceSolution
+	EndGlobalSection
+EndGlobal
